@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+/* estilos de cuadrados*/
+
+#border-1 {
+  background-color: #CFE2F3;
+  border: 4px solid black;
+  margin: 20px auto;
+  width: 500px;
+}
+
+#center {
+  margin: 200px 0px;
+}
+
+#left { 
+  text-align: left;
+}
+
+#right {
+  text-align: right;
+}
+
+#square {
+  background-color: black;
+  height: 70px;
+  width: 70px;
+}
